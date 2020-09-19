@@ -8,6 +8,6 @@
   Create a scattered plot based on previous datasets, with the random numbers as x and the functioned numbers as y.
 
 ## Run command
-  -python3 random_numbers.py
-  -python3 update_numbers.py
-  -python3 visualization.py
+  - python3 random_numbers.py
+  - python3 update_numbers.py
+  - python3 visualization.py
