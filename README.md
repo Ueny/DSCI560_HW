@@ -7,10 +7,8 @@
 ## visualization.py:
   Create a scattered plot based on previous datasets, with the random numbers as x and the functioned numbers as y.
 
-## Run command
-  - python3 random_numbers.py
-  - python3 update_numbers.py
-  - python3 visualization.py
+## DSCI560_HW2.ipynb:
+  Run all the scripts in order, ans show up all the results with explanations.
 
 ## DOI Badge
   [![DOI](https://zenodo.org/badge/296792612.svg)](https://zenodo.org/badge/latestdoi/296792612)
