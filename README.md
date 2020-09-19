@@ -11,3 +11,6 @@
   - python3 random_numbers.py
   - python3 update_numbers.py
   - python3 visualization.py
+
+## DOI Badge
+  [![DOI](https://zenodo.org/badge/296792612.svg)](https://zenodo.org/badge/latestdoi/296792612)
