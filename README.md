@@ -12,11 +12,11 @@
 ## visualization.py (step 3):
   Based on the previous data from step 1 and 2, with the support of the visualization tool 'matplotlib', do a data visualization with random numbers (step 1) as X     and functioned numbers (step 2) as Y. The scattered plot is as follows.
 
-## Running instructions
+## Running instructions:
    (Note: Please have a python version above 3 and install a package matplotlib)
-   python3 random_numbers.py
-   python3 update_numbers.py
-   python3 visualization.py
+   - python3 random_numbers.py
+   - python3 update_numbers.py
+   - python3 visualization.py
    
 ## DSCI560_HW2.ipynb:
   Run all the scripts in order, ans show up all the results with explanations.
