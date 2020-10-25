@@ -24,16 +24,27 @@
 
 ## Step 2: activate the virtual environment and check dependencies
   - Run the command `source dsci560H4/bin/activate` to activate this virtual environment
+  
     ![image](https://user-images.githubusercontent.com/54614822/97098217-909aab80-1637-11eb-8ec5-3dc03d27b2ea.png)
+    
   - In the virtual environment, by running the command `pip freeze > requirements_original.txt` to extract dependencies.
+  
     ![image](https://user-images.githubusercontent.com/54614822/97098395-9abda980-1639-11eb-8068-490622c9ea54.png)
-    ![image](https://user-images.githubusercontent.com/54614822/97098440-30f1cf80-163a-11eb-8b9d-2f678d3b478d.png)
+    
+    ![image](https://user-images.githubusercontent.com/54614822/97098440-30f1cf80-163a-11eb-8b9d-2f678d3b478d.png)  
+    
     We can see that, there is no dependency.
+    
   - However, considering we need the *matplotlib* package to help us do the visualization, we need to run the command first `pip install matplotlib`. 
+  
     ![image](https://user-images.githubusercontent.com/54614822/97098471-9cd43800-163a-11eb-9cad-a4092063e8b3.png)
+    
   - And then let's check the dependencies again.
+  
     ![image](https://user-images.githubusercontent.com/54614822/97098493-b5445280-163a-11eb-8c8c-7d1dde748b4c.png)
+    
     ![image](https://user-images.githubusercontent.com/54614822/97098497-c1301480-163a-11eb-91b7-c177d39e4f19.png)
+    
     So we know that, we'll have a list of dependencies after an installation of a package.
   
 ## Step 3: scripts introductions
