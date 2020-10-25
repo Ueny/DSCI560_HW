@@ -49,18 +49,27 @@
   
 ## Step 3: scripts introductions
   We have 3 scripts which need to be run in order, and the introductions are as follows.
-  1. random_numbers.py:
+  
+  - random_numbers.py:
+   
     We use a random package to generate uniform numbers repeatedly, and the range of the random number is from 0 to 100. The process will be repeated for 1000 times. We are able to have a visualization about the distribution of the 1000 random numbers. The X axis represents the number ID from 1 to 1000, and the y axis represents number values.
-  2. update_numbers.py:
+    
+  - update_numbers.py:
+  
     Based on previous 1000 random numbers, we implement a function y = 3x + 6 on each one, so we have new numbers from 6 to 306. We are also able to have a visualization about the distribution of the 1000 numbers. The X axis represents the number ID from 1 to 1000, and the y axis represents new values.
-  3. visualization.py:
+    
+  - visualization.py:
+  
     Based on the previous data from *1.* and *2.*, we are going to have a data visualization with random numbers (*1.*) as X and after-function numbers (*2.*) as Y. We'll have a scattered plot.
 
 ## Step 4: run the scripts
    (Note: Please have a python3 and install a package matplotlib)
    - Run the script *random_numbers.py* first. Run the command `python3 random_numbers.py`. And we can see the result, 1000 generated random numbers.
+   
      ![image](https://user-images.githubusercontent.com/54614822/97098716-972c2180-163d-11eb-83cd-4aabcf772336.png)
+     
    - Run the script *update_numbers.py* then. Run the command `python3 update_numbers.py`
+   
    - Run the script *visualization.py* finally. RUn the command `python3 visualization.py`
  
 ## The final visualization result
