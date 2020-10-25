@@ -31,15 +31,15 @@
 
 
 ## Execute Instructions
-## Note: the instructions are based on the Mac OS environment and Python3
+#### Note: the instructions are based on the Mac OS environment and Python3
 
-## Step 1: create a virtual environment
+### Step 1: create a virtual environment
   - Clone the code to a local repository
   - In the same directory, run the command `pip install virtualenv` in your command to install the environment management tool.
   - Run the command `virtualenv dsci560H4` to create a virtual environment called *dsci560H4*
     ![image](https://user-images.githubusercontent.com/54614822/97098068-1d446a00-1636-11eb-87f9-016e2a61003b.png)
 
-## Step 2: activate the virtual environment and check dependencies
+### Step 2: activate the virtual environment and check dependencies
   - Run the command `source dsci560H4/bin/activate` to activate this virtual environment
   
     ![image](https://user-images.githubusercontent.com/54614822/97098217-909aab80-1637-11eb-8ec5-3dc03d27b2ea.png)
@@ -64,7 +64,7 @@
     
     So we know that, we'll have a list of dependencies after an installation of a package.
   
-## Step 3: run the scripts
+### Step 3: run the scripts
    (Note: Please have a python3 and install a package matplotlib)
    - Run the script *random_numbers.py* first. Run the command `python3 random_numbers.py`. And we can see the result, 1000 generated random numbers.
    
