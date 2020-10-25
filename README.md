@@ -15,15 +15,15 @@
   
   1. random_numbers.py:
    
-    We use a random package to generate uniform numbers repeatedly, and the range of the random number is from 0 to 100. The process will be repeated for 1000 times. We are able to have a visualization about the distribution of the 1000 random numbers. The X axis represents the number ID from 1 to 1000, and the y axis represents number values.
+   We use a random package to generate uniform numbers repeatedly, and the range of the random number is from 0 to 100. The process will be repeated for 1000 times. We are able to have a visualization about the distribution of the 1000 random numbers. The X axis represents the number ID from 1 to 1000, and the y axis represents number values.
     
   2. update_numbers.py:
   
-    Based on previous 1000 random numbers, we implement a function y = 3x + 6 on each one, so we have new numbers from 6 to 306. We are also able to have a visualization about the distribution of the 1000 numbers. The X axis represents the number ID from 1 to 1000, and the y axis represents new values.
+   Based on previous 1000 random numbers, we implement a function y = 3x + 6 on each one, so we have new numbers from 6 to 306. We are also able to have a visualization about the distribution of the 1000 numbers. The X axis represents the number ID from 1 to 1000, and the y axis represents new values.
     
   3. visualization.py:
   
-    Based on the previous data from *1.* and *2.*, we are going to have a data visualization with random numbers (*1.*) as X and after-function numbers (*2.*) as Y. We'll have a scattered plot.
+   Based on the previous data from *1.* and *2.*, we are going to have a data visualization with random numbers (*1.*) as X and after-function numbers (*2.*) as Y. We'll have a scattered plot.
 
 ## DSCI560_HW2.ipynb:
   Run all the scripts in order, ans show up all the results with explanations.
